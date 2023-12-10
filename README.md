@@ -1,2 +1,2 @@
 # Publication_Slides
-This repository hosts the slides of Dr. Yu Zhang's papers.
+This repo hosts the slides for the publications of Dr. Yu Zhang's research group.
